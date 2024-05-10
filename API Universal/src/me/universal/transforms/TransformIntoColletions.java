@@ -18,7 +18,6 @@ public class TransformIntoColletions {
 	 * Transforma um conjunto de doubles em uma lista.
 	 * 
 	 * @param numeros Conjunto de números de tipo double.
-	 * @return 
 	 * @return Lista formada pelos números da variável numeros.
 	 */
 	public List<Double> conjuntoDoublesToList(double... numeros) {

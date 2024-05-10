@@ -5,10 +5,9 @@ package me.universal.matematica;
  * você ja puxa todos os métodos das Formulas Básicas e Medianas.
  * 
  * @author Bernardo de Castro Monteiro Franco Gomes
- * @version 0.1 @FuncsDocumentation({})
+ * @version 0.1
+ * @FuncsDocumentation({"Soma de Matrizes", "Multiplicação de Matrizes"})
  */
-
-// Matrizes, G.A
 
 public class FormulasAvançadas extends FormulasMedias {
 
